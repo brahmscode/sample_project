@@ -1,0 +1,29 @@
+
+
+Version:	3.5
+CmdLine:	F:\adt-bundle-windows-x86\New folder\mem_game\src\memory.exe --l4j-debug
+WOW64:		yes
+Working dir:	F:\adt-bundle-windows-x86\New folder\mem_game\src\.
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6
+Check launcher:	C:\Program Files (x86)\Java\jre6\bin\javaw.exe (OK)
+Match:		1.6
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.6.0_17
+Check launcher:	C:\Program Files (x86)\Java\jre6\bin\javaw.exe (OK)
+Match:		1.6.0_17
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.5
+Ignore:		1.5
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.5.0
+Ignore:		1.5.0
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6
+Ignore:		1.6
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.6.0_17
+Ignore:		1.6.0_17
+Runtime used:	1.6.0_17 (32-bit)
+Launcher:	C:\Program Files (x86)\Java\jre6\bin\javaw.exe
+Launcher args:	-jar "F:\adt-bundle-windows-x86\New folder\mem_game\src\memory.exe"
+Args length:	67/32768 chars
+Exit code:	0
