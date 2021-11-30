@@ -1,6 +1,8 @@
 class Sample
    def hello
       puts "Hello Ruby!"
+      puts "brahms"
+      puts 'jji'
    end
 end
 
