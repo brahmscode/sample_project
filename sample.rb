@@ -11,3 +11,4 @@ object = Sample. new
 object.hello
 puts "brhms"
 puts "hhiD"
+puts "sjk"
