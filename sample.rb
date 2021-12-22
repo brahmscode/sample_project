@@ -1,6 +1,8 @@
 class Sample
    def hello
       puts "Hello Ruby!"
+      puts "brahms"
+      puts 'jji'
    end
 end
 
@@ -8,3 +10,5 @@ end
 object = Sample. new
 object.hello
 puts "brhms"
+puts "hhiD"
+puts "sjk"
