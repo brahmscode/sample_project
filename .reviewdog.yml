@@ -1,9 +1,6 @@
 runner:
   rubocop:
     cmd: rubocop  # (required)
-    errorformat: # (optional if you use `format`)
-      - emacs
-    format: <format-name> # (optional if you use `errorformat`. e.g. golint,rdjson,rdjsonl)
     name: rubocop # (optional. you can overwrite <tool-name> defined by runner key)
     level: info # (optional. same as -level flag. [info,warning,error])
 
