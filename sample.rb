@@ -8,3 +8,4 @@ end
 object = Sample. new
 object.hello
 puts "brhms"
+puts "tesT"
