@@ -1,6 +1,9 @@
 runner:
   rubocop:
     cmd: rubocop  # (required)
+    format: emacs
+    errorformat:
+      - "%f:%l:%c: %m"
     name: rubocop # (optional. you can overwrite <tool-name> defined by runner key)
     level: info # (optional. same as -level flag. [info,warning,error])
 
